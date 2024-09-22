@@ -8,11 +8,23 @@
     
     color: red;
     border: 1px red solid;
-    width: 800px;
+    width: auto;
 
 }
 
 .flex-table{
-    border: 1px solid black;
     text-align: center;
+}
+
+table{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: auto;
+}
+td{
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    width: auto;
 }
