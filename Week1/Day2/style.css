@@ -3,25 +3,38 @@
 }
 
 .flex-container{
-    display: flex;
-    justify-content: center;
-    
+    width: 100%;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.red{
     color: red;
     border: 1px red solid;
+}
+/*
+.flex-container{
+    display: flex;
+    justify-content: center;
     width: auto;
 
 }
+
 
 .flex-table{
-    
-    
     width: auto;
 }
+*/
+/*
 .flex-table-td{
-    display: flex;
-    justify-content: center; 
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+   
 }
-
+*/
 /*
 table{
     border-width: 1px;
