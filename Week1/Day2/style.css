@@ -13,18 +13,28 @@
 }
 
 .flex-table{
-    text-align: center;
+    
+    
+    width: auto;
+}
+.flex-table-td{
+    display: flex;
+    justify-content: center; 
 }
 
+/*
 table{
     border-width: 1px;
     border-style: solid;
     border-color: black;
     width: auto;
 }
+
+
 td{
     border-width: 1px;
     border-style: solid;
     border-color: red;
     width: auto;
 }
+*/
