@@ -1,7 +1,19 @@
-.background{
-    background-image:url("https://images.pexels.com/photos/37730/sunset-boat-sea-ship-37730.jpeg") ; 
-    width: 2500px;
-    height: 1500px;
+.container{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.imageBackground{
+    background-image: url("./img/ocean.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;  
+    background-position:center;
+   
+    width: auto;
+    height: 682px;
+  
+  
 }
 
 form{
