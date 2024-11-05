@@ -1,3 +1,10 @@
+.Header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
 .container{
     position: relative;
     width: 100%;
